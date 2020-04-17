@@ -1,0 +1,1 @@
+{"s3": {"cmd": "ls -lh", "time": "50"}, "s2": {"cmd": "ls", "time": "50"}, "s1": {"cmd": "bash", "time": "10"}}
