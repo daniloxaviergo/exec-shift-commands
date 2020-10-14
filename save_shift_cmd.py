@@ -39,9 +39,9 @@ class SaveShiftCmd(Gtk.Window):
     # self.combo.insert(3,  "3",  "s4")
     # self.combo.insert(4,  "4",  "s5")
     # self.combo.insert(5,  "5",  "s6")
-    # self.combo.insert(6,  "6",  "s7")
-    # self.combo.insert(7,  "7",  "s8")
-    # self.combo.insert(8,  "8",  "s9")
+    self.combo.insert(6,  "6",  "s7")
+    self.combo.insert(7,  "7",  "s8")
+    self.combo.insert(8,  "8",  "s9")
 
     self.combo.connect("changed", self.on_combo_changed)
 
